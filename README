@@ -23,3 +23,6 @@ The project utilizes Langchain for text extraction from PDFs and Pinecone for ve
 Ensure your Pinecone API key is set up in the environment variables.
 The extracted data is displayed in a Streamlit interface and saved to 'combined_data.csv'.
 Feel free to customize the project based on your specific requirements and data extraction templates. 
+--------------------------------------to run--------------------------------------------------------
+To run requirenment file run pip install -r requirenments.txt
+To run this app in terminal write streamlit run app.py
